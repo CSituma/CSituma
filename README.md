@@ -10,8 +10,10 @@
 
 - 📫 How to reach me: cnsituma@gmail.com
 
-- ⚡ Fun fact:I love the office, <br>
+- ⚡ Fun fact: I love the office, <br>
     and often talk bout it in my social circle.
+    <br>
+    Now that you're here,
     <br>
      "Remember when Stanely said,<br>
      *"DID. I. STUTTER?"*  during the meeting?
