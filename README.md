@@ -10,5 +10,8 @@
 
 - 📫 How to reach me: cnsituma@gmail.com
 
-- ⚡ Fun fact:I love the office,and often talk bout it in my social circle.
-         "Remember when Stannely said,"DID. I. STUTTER?" in the meeting?
+- ⚡ Fun fact:I love the office, <br>
+    and often talk bout it in my social circle.
+    <br>
+     "Remember when Stannely said,<br>
+     *"DID. I. STUTTER?"*  during the meeting?
