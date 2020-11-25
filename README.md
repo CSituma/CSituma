@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Laravel.
 - 👯 I’m looking to collaborate on React and Node Projects
 
-- 🤔 Hire me as a JavaScript Developer?
+- 🤔 Hire me as a JavaScript Developer!
 
 - 📫 How to reach me: cnsituma@gmail.com
 
