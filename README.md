@@ -9,5 +9,5 @@
 
 - 📫 How to reach me: cnsituma@gmail.com
 
-- ⚡ Fun fact:I'm both a dog, and cat mum.
--->
+- ⚡ Fun fact:I'm both a dog, and cat mum so i think i qualify as a diplomat, lol.Heeey,U.N
+
