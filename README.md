@@ -3,7 +3,9 @@
 ![claragithub](https://github.com/CSituma/CSituma/blob/main/giphy.gif)
 
 - 🔭 I’m currently working on a REACT project
-- 🌱 I’m currently learning Laravel.
+
+- 🌱Ask me About : React, Jamstack, MERN Stack
+
 - 👯 I’m looking to collaborate on React and Node Projects
 
 - 🤔 Hire me as a JavaScript Developer!
