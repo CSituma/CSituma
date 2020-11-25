@@ -13,5 +13,5 @@
 - ⚡ Fun fact:I love the office, <br>
     and often talk bout it in my social circle.
     <br>
-     "Remember when Stannely said,<br>
+     "Remember when Stanely said,<br>
      *"DID. I. STUTTER?"*  during the meeting?
