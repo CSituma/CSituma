@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![claragithub](https://github.com/CSituma/giphy.gif)
+![claragithub](https://github.com/CSituma/CSituma/blob/main/giphy.gif)
 
 - 🔭 I’m currently working on a REACT project
 - 🌱 I’m currently learning Laravel.
