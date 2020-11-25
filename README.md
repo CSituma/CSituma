@@ -10,5 +10,5 @@
 
 - 📫 How to reach me: cnsituma@gmail.com
 
-- ⚡ Fun fact:I'm both a dog, and cat mum so i think i qualify as a diplomat, lol.Heeey,U.N
-
+- ⚡ Fun fact:I love the office,and often talk bout it in my social circle.
+         "Remember when Stannely said,"DID. I. STUTTER?" in the meeting?
