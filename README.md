@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on React and Node Projects
 
-- 🤔 I'm currently hireable for a job as a Javascript Developer.
+- 🤔 I'm hireable for a job as a Javascript Developer.
 
 - 📫 How to reach me: cnsituma@gmail.com
 
