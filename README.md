@@ -2,7 +2,7 @@
 
 ![claragithub](https://github.com/CSituma/CSituma/blob/main/giphy.gif)
 
-- 🔭 I’m currently working on a REACT project
+- 🔭 I’m currently working on a React-Express project
 
 - 🌱Ask me About : React, Jamstack, MERN Stack
 
