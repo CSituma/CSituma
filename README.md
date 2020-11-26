@@ -17,5 +17,7 @@
     <br>
     Now that you're here,
     <br>
-     "Remember when Stanely said,<br>
+     Remember when Stanely said,<br>
      *"DID. I. STUTTER?"*  during the meeting?
+     or the Tots for michael episode? 
+     
