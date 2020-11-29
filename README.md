@@ -8,11 +8,11 @@ Karibu.
 
 - 🔭 I’m currently working on a React-Express project
 
-- 🌱Ask me About : React, Jamstack, MERN Stack
+- 🌱Ask me About : React, Jamstack
 
 - 👯 I’m looking to collaborate on React and Node Projects
 
-- ♣️ I'm hireable for a job as a FullStack JavaScript Developer.
+- ♣️ I'm hireable for a job as a JavaScript Developer.
 
 - 📫 How to reach me: cnsituma@gmail.com
 
