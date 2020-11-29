@@ -16,7 +16,8 @@ Karibu.
 
 - 📫 How to reach me: cnsituma@gmail.com
 
-- ⚡ Fun fact: I love the office, <br>
+- ⚡ Fun fact: Besides my Love for Building with JavaScript, 
+     I'm a fan of The office t.v show, <br>
     and often talk bout it in my social circle.
     <br>
     Now that you're here,
