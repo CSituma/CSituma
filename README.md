@@ -1,7 +1,9 @@
 ### Hi there 👋
+Karibu. 
 
 ![claragithub](https://github.com/CSituma/CSituma/blob/main/giphy.gif)
 💥A reference from the Office 💥
+
 
 
 - 🔭 I’m currently working on a React-Express project
@@ -10,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on React and Node Projects
 
-- 🤔 I'm hireable for a job as a JavaScript FullStack Developer.
+- ♣️ I'm hireable for a job as a FullStack JavaScript Developer.
 
 - 📫 How to reach me: cnsituma@gmail.com
 
