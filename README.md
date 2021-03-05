@@ -8,9 +8,9 @@ Karibu.
 
 - 🌱Ask me About : React, Jamstack
 
-- 👯 I’m looking to collaborate on React and Node Projects
+- 👯 I’m looking to collaborate on C#, React, Angular  and Express Projects
 
-- ♣️ I'm hireable for a job as a JavaScript Developer.
+- ♣️ I'm hireable for a job as a Software Engineer.
 
 - 📫 How to reach me: cnsituma@gmail.com
 
