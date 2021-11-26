@@ -15,10 +15,7 @@ Karibu.
 - 📫 How to reach me: cnsituma@gmail.com
 
 - ⚡ Fun fact: Besides my Love for Building with JavaScript,<br>
-     I'm a fan of anime and The office t.v show, <br>
-    and often talk bout it in my social circle.
+     I'm a fan of anime and often play CODM :)
     <br>
-    Now that you're here,
-    <br>
-     Remember the Tots for michael episode? 
+  
      
