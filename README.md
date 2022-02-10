@@ -4,11 +4,11 @@ Karibu.
 ![claragithub](https://github.com/CSituma/CSituma/blob/main/tumblr_nt02rdAnUC1uu7byeo1_500.gif)
 
 
-- 🔭 I’m currently working on a React-Express project
+- 🔭 I’m currently working on a Nextjs-Strapi/Express/MongoDB project
 
-- 🌱Ask me About : React, Jamstack
+- 🌱Ask me About : Jamstack (React,Nextjs)
 
-- 👯 I’m looking to collaborate on React  and Express Projects
+- 👯 I’m looking to collaborate on React,Nextjs,Strapi and Express Projects
 
 - ♣️ I'm hireable for a job as a Software Developer.
 
