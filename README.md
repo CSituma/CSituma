@@ -12,10 +12,12 @@ Karibu.
 
 - ♣️ I'm hireable for a job as a Software Developer.
 
+-  I teach HTML/CSS/REACT fo free,Email me to enroll.Hopefully i get to impact your life  :)
+
 - 📫 How to reach me: cnsituma@gmail.com
 
 - ⚡ Fun fact: Besides my Love for Building with JavaScript,<br>
-     I'm a fan of anime and often play CODM :)
+     I'm a fan of anime, NFTs and often play CODM :)
     <br>
   
      
