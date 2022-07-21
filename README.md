@@ -12,7 +12,9 @@ Karibu.
 
 - ♣️ I'm hireable for a job as a Software Developer.
 
--  I teach HTML/CSS/REACT fo free,Email me to enroll.Hopefully i get to impact your life  :)
+-  I teach HTML/CSS/REACT,Email me to enroll.Hopefully i get to impact your life  :)
+
+[![wakatime](https://wakatime.com/badge/user/c555d6ae-b42a-4d0a-b509-3c407478399d.svg)](https://wakatime.com/@c555d6ae-b42a-4d0a-b509-3c407478399d)
 
 - 📫 How to reach me: cnsituma@gmail.com
 
