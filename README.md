@@ -4,7 +4,7 @@ Karibu.
 ![claragithub](https://github.com/CSituma/CSituma/blob/main/tumblr_nt02rdAnUC1uu7byeo1_500.gif)
 
 
-- 🔭 I’m currently working on a React,Nextjs-Strapi/Express/MongoDB project
+- 🔭 I’m currently working on justcompare.ng
 
 - 🌱Ask me About : Jamstack (React,Nextjs)
 
