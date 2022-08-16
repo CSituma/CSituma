@@ -52,8 +52,5 @@ src="https://img.shields.io/twitter/follow/khiilara?logo=twitter&style=for-the-b
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CSituma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=catherinekimani&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CSituma&icon=0&color=0)](https://visitcount.itsvg.in)
