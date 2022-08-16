@@ -46,4 +46,16 @@ src="https://img.shields.io/twitter/follow/khiilara?logo=twitter&style=for-the-b
      I'm a fan of anime, NFTs and often play CODM :)
     <br>
   
-     
+     # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CSitumatheme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CSituma&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSituma&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CSituma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=catherinekimani&icon=0&color=0)](https://visitcount.itsvg.in)
