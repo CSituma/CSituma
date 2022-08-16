@@ -40,14 +40,12 @@ src="https://img.shields.io/twitter/follow/khiilara?logo=twitter&style=for-the-b
 </p>
 
 
-
-
 - ⚡ Fun fact: Besides my Love for Building with JavaScript,<br>
      I'm a fan of anime, NFTs and often play CODM :)
     <br>
   
      # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CSitumatheme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CSituma&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CSituma&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSituma&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
