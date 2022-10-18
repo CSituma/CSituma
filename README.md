@@ -21,6 +21,8 @@ Karibu.
 src="https://img.shields.io/twitter/follow/khiilara?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uguxtuxd3xdhkfm23m2ivh7ot&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### Skills
 
 <p align="left">
