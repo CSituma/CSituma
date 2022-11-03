@@ -6,9 +6,9 @@ Karibu.
 
 
 
-- 🌱Ask me About : Jamstack (React,Nextjs)
+- 🌱Ask me About : Jamstack (React,Nextjs) and Blockchain(Solidity)
 
-- 👯 I’m looking to collaborate on React,Nextjs,Strapi and Express Projects
+- 👯 I’m looking to collaborate on React and Solidity Projects
 
 - ♣️ I'm hireable for a job as a Software Developer.
 
