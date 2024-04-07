@@ -6,11 +6,11 @@ Karibu.
 
 
 
-- 🌱Ask me About : Jamstack (React,Nextjs) and Blockchain(Solidity)
+- 🌱Ask me About : Jamstack (React,Nextjs) and Blockchain(Solidity, Ether.js)
 
 - 👯 I’m looking to collaborate on React and Solidity Projects
 
-- ♣️ I'm hireable for a job as a Software Developer.
+- ♣️ I'm hireable for a job as a Blockchain  Developer.
 
 - 📫 How to reach me: cnsituma@gmail.com
 
