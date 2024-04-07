@@ -10,7 +10,7 @@ Karibu.
 
 - 👯 I’m looking to collaborate on React and Solidity Projects
 
-- ♣️ I'm hireable for a job as a Blockchain  Developer.
+- ♣️ I'm hireable for a job as a Blockchain  Developer/ Technical writer
 
 - 📫 How to reach me: cnsituma@gmail.com
 
