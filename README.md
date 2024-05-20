@@ -4,15 +4,25 @@ Karibu.
 ![claragithub](https://github.com/CSituma/CSituma/blob/main/tumblr_nt02rdAnUC1uu7byeo1_500.gif)
 
 
+🌱 Ask me About:
+- Jamstack: React, Next.js
+- Blockchain: Solidity
+
+👯 I’m eager to collaborate on:
+- Cutting-edge React projects
+- Innovative Solidity developments and Blockchain projects 
+- Technical writing 
 
 
-- 🌱Ask me About : Jamstack (React,Nextjs) and Blockchain(Solidity, Ether.js)
+🌟 Why Blockchain?
+Blockchain isn't just a technology; it's a movement that I wholeheartedly believe in. It's about decentralization, transparency, and empowering individuals. I'm passionate about contributing to this revolutionary change and building a better future for us all. 
 
-- 👯 I’m looking to collaborate on React and Solidity Projects
+💬 About Me
+I'm dedicated to solving real-life problems with my skillset. It's genuinely satisfying, and I enjoy getting lost in the process.
 
-- ♣️ I'm hireable for a job as a Blockchain  Developer/ Technical writer
+Currently, I'm working on a much-needed real estate platform in Zanzibar to help streamline property transactions and make life easier for everyone involved.
 
-- 📫 How to reach me: cnsituma@gmail.com
+ Whether it's building sleek, responsive web applications with React, Next.js, and Node or developing robust smart contracts with Solidity and Ether.js, I'm all in. I thrive on collaboration and am always excited to work with like-minded individuals who share my passion for technology and innovation.
 
 
 [![wakatime](https://wakatime.com/badge/user/c555d6ae-b42a-4d0a-b509-3c407478399d.svg)](https://wakatime.com/@c555d6ae-b42a-4d0a-b509-3c407478399d)
