@@ -22,7 +22,7 @@ Karibu.
 
 - I'm dedicated to solving real-life problems with my skillset. It's genuinely satisfying, and I enjoy getting lost in the process.
 
-- Currently, I'm working on a much-needed real estate platform in Zanzibar to help streamline property transactions and make life easier for everyone involved.
+- Currently, I'm working on a much-needed real estate platform in Zanzibar, where I recently acquired residency, to help streamline property transactions and make life easier for everyone involved.
 
 - Whether it's building sleek, responsive web applications with React, Next.js, and Node or developing robust smart contracts with Solidity and Ether.js, I'm all in. I thrive on collaboration and am always excited to work with like-minded individuals who share my passion for technology and innovation.
 
