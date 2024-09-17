@@ -11,7 +11,7 @@ Karibu.
 👯 I’m eager to collaborate on:
 - Cutting-edge React projects
 - Innovative Solidity developments and Blockchain projects 
-- Technical writing 
+- Technical writing: Writting is a passion that i,m actively trying to persue more. At age 12 i had written a novel and continously write technical articles as well on dev.to
 
 
 🌟 Why Blockchain?
