@@ -5,7 +5,7 @@ Karibu.
 
 
 🌱 Ask me About:
-- Jamstack: React, Next.js
+- Jamstack: REACT, NEXT.js
 - Blockchain: Solidity
 
 👯 I’m eager to collaborate on:
