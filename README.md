@@ -7,9 +7,10 @@ Karibu.
 🌱 Ask me About:
 - Jamstack: REACT, NEXT.js
 - Blockchain: Solidity
+- AI! AI! AI!
 
 👯 I’m eager to collaborate on:
-- Cutting-edge React projects
+- Cutting-edge  projects, and now anything being solved by AI , that can make a difference in an industry
 - Innovative Solidity developments and Blockchain projects 
 - Technical writing: Writting is a passion that i,m actively trying to persue more. At age 12 i had written a novel and continously write technical articles as well on dev.to
 
@@ -24,7 +25,7 @@ Karibu.
 
 - Currently, I'm working on a much-needed real estate platform in Zanzibar, where I recently acquired residency, to help streamline property transactions and make life easier for everyone involved.
 
-- Whether it's building sleek, responsive web applications with React, Next.js, and Node or developing robust smart contracts with Solidity and Ether.js, I'm all in. I thrive on collaboration and am always excited to work with like-minded individuals who share my passion for technology and innovation.
+- Whether it's building sleek, responsive web applications with React, Next.js,Python  and Node or developing AI products or bvghghrobust smart contracts with Solidity and Ether.js, I'm all in. I thrive on collaboration and am always excited to work with like-minded individuals who share my passion for technology and innovation.
 
 
 [![wakatime](https://wakatime.com/badge/user/c555d6ae-b42a-4d0a-b509-3c407478399d.svg)](https://wakatime.com/@c555d6ae-b42a-4d0a-b509-3c407478399d)
