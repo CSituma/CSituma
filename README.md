@@ -23,9 +23,9 @@ Karibu.
 
 - I'm dedicated to solving real-life problems with my skillset. It's genuinely satisfying, and I enjoy getting lost in the process.
 
-- Currently, I'm working on a much-needed real estate platform in Zanzibar, where I recently acquired residency, to help streamline property transactions and make life easier for everyone involved.
+- Currently, I'm working on BOTMARA AI - a web and whatsapp solution to customer care problems using AI
 
-- Whether it's building sleek, responsive web applications with React, Next.js,Python  and Node or developing AI products or bvghghrobust smart contracts with Solidity and Ether.js, I'm all in. I thrive on collaboration and am always excited to work with like-minded individuals who share my passion for technology and innovation.
+- Whether it's building sleek, responsive web applications with React, Next.js,Python  and Node or developing AI products or robust smart contracts with Solidity and Ether.js, I'm all in. I thrive on collaboration and am always excited to work with like-minded individuals who share my passion for technology and innovation.
 
 
 [![wakatime](https://wakatime.com/badge/user/c555d6ae-b42a-4d0a-b509-3c407478399d.svg)](https://wakatime.com/@c555d6ae-b42a-4d0a-b509-3c407478399d)
