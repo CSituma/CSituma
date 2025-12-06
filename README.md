@@ -56,7 +56,7 @@ src="https://img.shields.io/twitter/follow/khiilara?logo=twitter&style=for-the-b
 
 
 - ⚡ Fun fact: Besides my Love for Building with JavaScript,<br>
-     I'm a fan of anime, NFTs and often play CODM :)
+     I'm a fan of anime, NFTs and often play Chess and CODM :)
     <br>
   
 
